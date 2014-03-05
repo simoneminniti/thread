@@ -94,7 +94,8 @@ public class mythread extends Thread {
            
             
             
-            out=false;
+            System.out.println("Thread finito "+name);
+            
             
                 
             
